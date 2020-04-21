@@ -1,0 +1,10 @@
+C:\SW\NPWFH\NPWFH\bin\Debug\NPWFH.exe.config
+C:\SW\NPWFH\NPWFH\bin\Debug\NPWFH.exe
+C:\SW\NPWFH\NPWFH\bin\Debug\NPWFH.pdb
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.csprojAssemblyReference.cache
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.Form1.resources
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.Properties.Resources.resources
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.csproj.GenerateResource.cache
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.csproj.CoreCompileInputs.cache
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.exe
+C:\SW\NPWFH\NPWFH\obj\Debug\NPWFH.pdb

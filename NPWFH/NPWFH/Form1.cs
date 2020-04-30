@@ -15,6 +15,7 @@ namespace NPWFH
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -24,7 +25,8 @@ namespace NPWFH
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World!", "Message");
+            Message message = new Message();
+            MessageBox.Show( message.Hello(), "Message");
         }
     }
 }

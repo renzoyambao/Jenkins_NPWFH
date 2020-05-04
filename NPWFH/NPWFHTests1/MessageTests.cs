@@ -14,13 +14,17 @@ namespace NPWFH.Tests
         [TestMethod()]
         public void HelloTest()
         {
-            Assert.Fail();
+            Message message = new Message();
+            var result = (message.Hello() == "Hello World!")? true: false;
+
+            Assert.IsTrue(result);
+
         }
 
         [TestMethod()]
         public void HiTest()
         {
-            Assert.Fail();
+
         }
     }
 }
